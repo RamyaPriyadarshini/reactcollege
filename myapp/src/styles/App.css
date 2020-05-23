@@ -1,0 +1,19 @@
+.headers {
+    width: 100%;
+}
+.tabs {
+    width: 100%;
+    float: left;
+}
+.tab {
+    padding: 1%;
+    cursor: pointer;
+    margin-left: 5%;
+    margin-right: 5%;
+    float: left;
+    width: 10%;
+}
+.body {
+    width: 100%;
+    padding: 50px;
+}
